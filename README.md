@@ -1,2 +1,2 @@
 # DBS
-uoiui
+database management system
